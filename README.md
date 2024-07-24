@@ -1,6 +1,6 @@
 # Name-and-age
 
-there is an input box for your name, buttons to incremen, decrement, or clear your age.
+there is an input box for your name, which is confirmed by the enter key and buttons to increment, decrement, or clear your age.
 <img width="855" alt="Screenshot 2024-07-24 at 13 20 18" src="https://github.com/user-attachments/assets/38c9748f-bd7c-4f7d-8fe7-5ee805e071b4">
 
 when the information is confirmed, it will output it in the sentence
