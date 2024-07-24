@@ -1,0 +1,30 @@
+/* display:block is necessary to center a label; since labels 
+are inline elements, they need their width defined. */
+label{
+    display:block;
+    text-align:center;
+
+}
+
+#nameLabel
+    {
+    text-align:center;
+    margin: 10px 0 25px 0;
+}
+
+
+
+#buttonContainer{ 
+    text-align:center;
+}
+
+#nameHeader{
+    display:inline;
+
+}
+
+#ageHeader{
+    display:inline;
+}
+
+
